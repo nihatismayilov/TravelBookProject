@@ -14,6 +14,7 @@
 		B87F955527B102A900299FBE /* TravelBookProject.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B87F955327B102A900299FBE /* TravelBookProject.xcdatamodeld */; };
 		B87F955727B102AA00299FBE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B87F955627B102AA00299FBE /* Assets.xcassets */; };
 		B87F955A27B102AA00299FBE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B87F955827B102AA00299FBE /* LaunchScreen.storyboard */; };
+		B87F956227B1174900299FBE /* ListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B87F956127B1174900299FBE /* ListViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B87F955627B102AA00299FBE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B87F955927B102AA00299FBE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B87F955B27B102AA00299FBE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B87F956127B1174900299FBE /* ListViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				B87F954A27B102A900299FBE /* AppDelegate.swift */,
 				B87F954C27B102A900299FBE /* SceneDelegate.swift */,
 				B87F954E27B102A900299FBE /* ViewController.swift */,
+				B87F956127B1174900299FBE /* ListViewController.swift */,
 				B87F955027B102A900299FBE /* Main.storyboard */,
 				B87F955627B102AA00299FBE /* Assets.xcassets */,
 				B87F955827B102AA00299FBE /* LaunchScreen.storyboard */,
@@ -144,6 +147,7 @@
 				B87F954F27B102A900299FBE /* ViewController.swift in Sources */,
 				B87F954B27B102A900299FBE /* AppDelegate.swift in Sources */,
 				B87F955527B102A900299FBE /* TravelBookProject.xcdatamodeld in Sources */,
+				B87F956227B1174900299FBE /* ListViewController.swift in Sources */,
 				B87F954D27B102A900299FBE /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
